@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Opondo J.Hongo
+- 👋 Hi, I’m Opondo Hongo
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning Javascript majorly...then move on to react
 - 💞️ I’m looking to collaborate on web development projects, more of learn while trying. 
